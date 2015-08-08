@@ -1,0 +1,9 @@
+c:\documents and settings\torus-1\my documents\visual studio 2010\Projects\DrpBinding\DrpBinding\bin\DrpBinding.dll
+c:\documents and settings\torus-1\my documents\visual studio 2010\Projects\DrpBinding\DrpBinding\bin\DrpBinding.pdb
+c:\documents and settings\torus-1\my documents\visual studio 2010\Projects\DrpBinding\DrpBinding\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\torus-1\my documents\visual studio 2010\Projects\DrpBinding\DrpBinding\obj\Debug\DrpBinding.dll
+c:\documents and settings\torus-1\my documents\visual studio 2010\Projects\DrpBinding\DrpBinding\obj\Debug\DrpBinding.pdb
+C:\Users\Sowmya\Documents\c#_training\DrpBinding\DrpBinding\bin\DrpBinding.dll
+C:\Users\Sowmya\Documents\c#_training\DrpBinding\DrpBinding\bin\DrpBinding.pdb
+C:\Users\Sowmya\Documents\c#_training\DrpBinding\DrpBinding\obj\Debug\DrpBinding.dll
+C:\Users\Sowmya\Documents\c#_training\DrpBinding\DrpBinding\obj\Debug\DrpBinding.pdb
